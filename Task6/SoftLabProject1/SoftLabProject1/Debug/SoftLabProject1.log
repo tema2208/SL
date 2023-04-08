@@ -1,0 +1,8 @@
+﻿  SoftLabProject1.cpp
+C:\Users\Пользователь\source\repos\SoftLabProject1\SoftLabProject1\SoftLabProject1.cpp(63,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\SoftLabProject1\SoftLabProject1\SoftLabProject1.cpp(74,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\SoftLabProject1\SoftLabProject1\SoftLabProject1.cpp(104,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\SoftLabProject1\SoftLabProject1\SoftLabProject1.cpp(121,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\SoftLabProject1\SoftLabProject1\SoftLabProject1.cpp(134,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\SoftLabProject1\SoftLabProject1\SoftLabProject1.cpp(44): warning C4715: HexToInt: значение возвращается не при всех путях выполнения
+  SoftLabProject1.vcxproj -> C:\Users\Пользователь\source\repos\SoftLabProject1\Debug\SoftLabProject1.exe

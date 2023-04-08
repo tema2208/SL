@@ -1,0 +1,5 @@
+4
+3 A-B B-C B-D
+4 A-B B-D D-C A-C
+4 A-B B-C C-A A-D
+7 A-B C-G A-D A-C B-E B-F F-A
